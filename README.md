@@ -1,4 +1,5 @@
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=Gaardsholt_EnvConfig&metric=alert_status)](https://sonarcloud.io/dashboard?id=Gaardsholt_EnvConfig)
+[![CircleCI](https://circleci.com/gh/Gaardsholt/EnvConfig.svg?style=svg)](https://circleci.com/gh/Gaardsholt/EnvConfig)
 
 # EnvConfig
 Simple environment variables reader for .NET
