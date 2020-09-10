@@ -13,3 +13,4 @@ public class MyClass : EnvSettings
     public string MyPassword { get; set; }
 }
 ```
+
